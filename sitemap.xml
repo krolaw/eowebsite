@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://testweb.extraorder.app/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/</loc>
+    <loc>/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/blog/20191023-restaurant-and-cafe/</loc>
+    <loc>/blog/20191023-restaurant-and-cafe/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/app-privacy/</loc>
+    <loc>/app-privacy/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/privacy-policy/</loc>
+    <loc>/privacy-policy/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/terms-and-conditions/</loc>
+    <loc>/terms-and-conditions/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/author/</loc>
+    <loc>/author/</loc>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://testweb.extraorder.app/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
