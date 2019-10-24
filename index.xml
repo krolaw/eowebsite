@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extraorder</title>
-    <link>https://extraorder.app/</link>
+    <link>https://testweb.extraorder.app/</link>
     <description>Recent content on Extraorder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
-	<atom:link href="https://extraorder.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://testweb.extraorder.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Levelling up the experience</title>
-      <link>https://extraorder.app/blog/20191023-restaurant-and-cafe/</link>
+      <link>https://testweb.extraorder.app/blog/20191023-restaurant-and-cafe/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://extraorder.app/blog/20191023-restaurant-and-cafe/</guid>
+      <guid>https://testweb.extraorder.app/blog/20191023-restaurant-and-cafe/</guid>
       <description>We were featured on Restaurant &amp;amp; Cafe magazine.</description>
     </item>
     
     <item>
       <title>Mobile App Privacy Policy</title>
-      <link>https://extraorder.app/app-privacy/</link>
+      <link>https://testweb.extraorder.app/app-privacy/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://extraorder.app/app-privacy/</guid>
+      <guid>https://testweb.extraorder.app/app-privacy/</guid>
       <description>Mobile App Privacy Policy This Privacy Policy ONLINE ORDERING SERVICE applies to all personal information submitted by Users on the ONLINE ORDERING SERVICE or emailed to ENZ and/or any Cafe, and any information that may be automatically retrieved through the services that a Vendor offers on the ONLINE ORDERING SERVICE.</description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://extraorder.app/privacy-policy/</link>
+      <link>https://testweb.extraorder.app/privacy-policy/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://extraorder.app/privacy-policy/</guid>
+      <guid>https://testweb.extraorder.app/privacy-policy/</guid>
       <description>Privacy Policy Extraorder is committed to the security of your application’s instrumentation and performance data.</description>
     </item>
     
     <item>
       <title>Terms and Conditions</title>
-      <link>https://extraorder.app/terms-and-conditions/</link>
+      <link>https://testweb.extraorder.app/terms-and-conditions/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://extraorder.app/terms-and-conditions/</guid>
+      <guid>https://testweb.extraorder.app/terms-and-conditions/</guid>
       <description>Terms of Service  By signing up for the Extraorder services (Services) or any of the services offered by Extraorder Limited (Extraorder) you are agreeing to be bound by the terms and conditions set out below (Terms of Service).</description>
     </item>
     

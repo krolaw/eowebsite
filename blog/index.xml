@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Extraorder</title>
-    <link>https://extraorder.app/blog/</link>
+    <link>https://testweb.extraorder.app/blog/</link>
     <description>Recent content in Blogs on Extraorder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
-	<atom:link href="https://extraorder.app/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://testweb.extraorder.app/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Levelling up the experience</title>
-      <link>https://extraorder.app/blog/20191023-restaurant-and-cafe/</link>
+      <link>https://testweb.extraorder.app/blog/20191023-restaurant-and-cafe/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://extraorder.app/blog/20191023-restaurant-and-cafe/</guid>
+      <guid>https://testweb.extraorder.app/blog/20191023-restaurant-and-cafe/</guid>
       <description>We were featured on Restaurant &amp;amp; Cafe magazine.</description>
     </item>
     
