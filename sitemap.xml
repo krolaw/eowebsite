@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/process/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/author/</loc>
   </url>
   
