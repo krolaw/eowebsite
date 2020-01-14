@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Extraorder Mobile App Privacy Policy</title>
-      <link>/app-privacy/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>/app-privacy/</guid>
-      <description>We don&#39;t share or store your data beyond operational requirements</description>
-    </item>
-    
-    <item>
       <title>Privacy Policy</title>
       <link>/privacy-policy/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
@@ -63,6 +54,15 @@
       
       <guid>/terms-and-conditions/</guid>
       <description>Terms of Service   By signing up for the Extraorder services (Services) or any of the services offered by Extraorder Limited (Extraorder) you are agreeing to be bound by the terms and conditions set out below (Terms of Service).</description>
+    </item>
+    
+    <item>
+      <title>Extraorder Mobile App Privacy Policy</title>
+      <link>/app-privacy/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>/app-privacy/</guid>
+      <description>We don&#39;t share or store your data beyond operational requirements</description>
     </item>
     
   </channel>
