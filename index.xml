@@ -2,93 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extraorder</title>
-    <link>/</link>
+    <link>/eowebsite/</link>
     <description>Recent content on Extraorder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 19 Mar 2020 12:00:00 +1300</lastBuildDate><atom:link href="/eowebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extraorder&#39;s on YouTube</title>
-      <link>/blog/20200320-youtube/</link>
+      <link>/eowebsite/blog/20200320-youtube/</link>
       <pubDate>Thu, 19 Mar 2020 12:00:00 +1300</pubDate>
       
-      <guid>/blog/20200320-youtube/</guid>
+      <guid>/eowebsite/blog/20200320-youtube/</guid>
       <description>We&amp;rsquo;ve just setup Extraorder&amp;rsquo;s YouTube Channel. Subscribe for future instructional videos, hints and tips.</description>
     </item>
     
     <item>
       <title>STARTUP WATCH: EXTRAORDER</title>
-      <link>/blog/20200228-nzentrepreneur/</link>
+      <link>/eowebsite/blog/20200228-nzentrepreneur/</link>
       <pubDate>Fri, 28 Feb 2020 12:00:00 +1300</pubDate>
       
-      <guid>/blog/20200228-nzentrepreneur/</guid>
+      <guid>/eowebsite/blog/20200228-nzentrepreneur/</guid>
       <description>#NZENTREPRENEUR caught up with Extraorder co-founder Greg Harrison to get the low down on the Kiwi hospo-tech startup with international ambitions.</description>
     </item>
     
     <item>
       <title>Activate Extraorder for your venue with Doshii</title>
-      <link>/blog/20200210-doshii/</link>
+      <link>/eowebsite/blog/20200210-doshii/</link>
       <pubDate>Mon, 10 Feb 2020 13:00:00 +1300</pubDate>
       
-      <guid>/blog/20200210-doshii/</guid>
+      <guid>/eowebsite/blog/20200210-doshii/</guid>
       <description>We&amp;rsquo;re excited to announce that Extraorder is now an integration partner of Doshii.</description>
     </item>
     
     <item>
       <title>20 Minutes with Greg Harrison</title>
-      <link>/blog/20191210-restaurant-and-cafe/</link>
+      <link>/eowebsite/blog/20191210-restaurant-and-cafe/</link>
       <pubDate>Tue, 10 Dec 2019 00:51:12 +0600</pubDate>
       
-      <guid>/blog/20191210-restaurant-and-cafe/</guid>
+      <guid>/eowebsite/blog/20191210-restaurant-and-cafe/</guid>
       <description>Our CEO was featured on Restaurant &amp;amp; Cafe magazine.</description>
     </item>
     
     <item>
       <title>The Next-Generation Customers</title>
-      <link>/blog/20191202-restaurant-and-cafe/</link>
+      <link>/eowebsite/blog/20191202-restaurant-and-cafe/</link>
       <pubDate>Mon, 02 Dec 2019 14:51:12 +0600</pubDate>
       
-      <guid>/blog/20191202-restaurant-and-cafe/</guid>
+      <guid>/eowebsite/blog/20191202-restaurant-and-cafe/</guid>
       <description>We were mentioned in Restaurant &amp;amp; Cafe magazine.</description>
     </item>
     
     <item>
       <title>Levelling up the experience</title>
-      <link>/blog/20191023-restaurant-and-cafe/</link>
+      <link>/eowebsite/blog/20191023-restaurant-and-cafe/</link>
       <pubDate>Sat, 23 Feb 2019 14:51:12 +0600</pubDate>
       
-      <guid>/blog/20191023-restaurant-and-cafe/</guid>
+      <guid>/eowebsite/blog/20191023-restaurant-and-cafe/</guid>
       <description>We were featured on Restaurant &amp;amp; Cafe magazine.</description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy-policy/</link>
+      <link>/eowebsite/privacy-policy/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>/privacy-policy/</guid>
+      <guid>/eowebsite/privacy-policy/</guid>
       <description>Privacy Policy Extraorder is committed to the security of your application’s instrumentation and performance data.</description>
     </item>
     
     <item>
       <title>Terms and Conditions</title>
-      <link>/terms-and-conditions/</link>
+      <link>/eowebsite/terms-and-conditions/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>/terms-and-conditions/</guid>
+      <guid>/eowebsite/terms-and-conditions/</guid>
       <description>Terms of Service   By signing up for the Extraorder services (Services) or any of the services offered by Extraorder Limited (Extraorder) you are agreeing to be bound by the terms and conditions set out below (Terms of Service).</description>
     </item>
     
     <item>
       <title>Extraorder Mobile App Privacy Policy</title>
-      <link>/app-privacy/</link>
+      <link>/eowebsite/app-privacy/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +1300</pubDate>
       
-      <guid>/app-privacy/</guid>
+      <guid>/eowebsite/app-privacy/</guid>
       <description>We don&amp;rsquo;t share or store your data beyond operational requirements</description>
     </item>
     
